@@ -1,0 +1,4 @@
+declare module 'WAPI' {
+  const value: any;
+  export = value;
+}
